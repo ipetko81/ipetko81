@@ -13,4 +13,7 @@
 ![AZUREDEVOPS](https://img.shields.io/badge/-azuredevops-000000?style=for-the-badge&logo=azuredevops&logoColor=00080)
 ![ANDROIDSTUDIO](https://img.shields.io/badge/-androidstudio-000000?style=for-the-badge&logo=androidstudio&logoColor=00080)
 
-Follow me
+### Follow me
+[![VKONTAKTE](https://img.shields.io/badge/-vkontakte-000000?style=for-the-badge&logo=vk&logoColor=318CE7)](https://vk.com/id139617874)
+[![TELEGRAM](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram&logoColor=318CE7)](https://t.me/Ivan_Petko81)
+[![HEADHUNTER](https://img.shields.io/badge/-headhunter-000000?style=for-the-badge&logo=headhunter&logoColor=318CE7)](https://krasnodar.hh.ru/resume/94f11766ff0b2770830039ed1f4631506f7879)
