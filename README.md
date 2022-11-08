@@ -18,6 +18,7 @@
 - [Bug-Reports](https://github.com/ipetko81/bug_report.git)
 - [Test-Disign](https://github.com/ipetko81/test_disign_technology.git)
 - [prioritization_in_regression](https://github.com/ipetko81/prioritization_in_regression.git)
+- [Checklists](https://github.com/ipetko81/Checklists.git)
 
 ### Follow me
 [![VKONTAKTE](https://img.shields.io/badge/-vkontakte-000000?style=for-the-badge&logo=vk&logoColor=318CE7)](https://vk.com/id139617874)
