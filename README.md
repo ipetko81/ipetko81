@@ -19,7 +19,7 @@
 - [Test-Disign](https://github.com/ipetko81/test_disign_technology.git)
 - [prioritization_in_regression](https://github.com/ipetko81/prioritization_in_regression.git)
 - [Checklists](https://github.com/ipetko81/Checklists.git)
-
+- [Test-Cases](https://github.com/ipetko81/Test_Cases.git)
 ### Follow me
 [![VKONTAKTE](https://img.shields.io/badge/-vkontakte-000000?style=for-the-badge&logo=vk&logoColor=318CE7)](https://vk.com/id139617874)
 [![TELEGRAM](https://img.shields.io/badge/-telegram-000000?style=for-the-badge&logo=telegram&logoColor=318CE7)](https://t.me/Ivan_Petko81)
